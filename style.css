@@ -25,9 +25,11 @@ body{
 .header-text h4 {
     font-size: 1.125rem;
     color: #1F314F;
+    text-align: center;
 }
 .p{
     text-align: center;
+    color:#68778D;
 }
 .sides{
     padding: 16px 16px; 
