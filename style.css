@@ -8,6 +8,8 @@ body{
     font-family:outfit ;
     justify-content: center;
     align-items: center;
+    height: 100 vh;
+    padding: 60px;
 }
 .major-container{
     background-color: #FFFFFF;
